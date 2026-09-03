@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="48" alt="RHEL" />
-  <img src="./fedora-icon.svg" height="48" width="48" alt="Fedora" />
+  <img src="./fedora-tile.png" height="48" width="48" alt="Fedora" />
   <img src="https://skillicons.dev/icons?i=linux,apple,ansible,py,git,vscode,neovim,bash&theme=dark" height="48" alt="tech stack icons" />
 </p>
 

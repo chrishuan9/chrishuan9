@@ -1,5 +1,0 @@
-<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fedora">
-  <rect width="48" height="48" rx="10" fill="#20222c"/>
-  <circle cx="24" cy="24" r="15" fill="#3c6eb4"/>
-  <path d="M24 12.5c-1.1 0-2 .9-2 2v8.7l-6.3 3.6a2 2 0 0 0-1 1.73v3.9c0 .9.72 1.62 1.62 1.62.28 0 .55-.07.79-.21l6.9-3.97 6.9 3.97c.24.14.51.21.79.21.9 0 1.62-.72 1.62-1.62v-3.9a2 2 0 0 0-1-1.73L26 23.2v-8.7c0-1.1-.9-2-2-2z" fill="#ffffff"/>
-</svg>
