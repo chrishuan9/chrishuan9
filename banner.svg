@@ -1,0 +1,42 @@
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hi, I'm Chris — Technical Account Manager for Platform and Ansible at Red Hat">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EE0000"/>
+      <stop offset="100%" stop-color="#1a1a1a"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.16"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font: 700 40px "Segoe UI", "Helvetica Neue", Arial, sans-serif; fill: #ffffff; }
+    .subtitle { font: 400 17px "Segoe UI", "Helvetica Neue", Arial, sans-serif; fill: #f5d7d7; }
+    .wave1 { animation: drift 9s ease-in-out infinite; transform-origin: 600px 90px; }
+    .wave2 { animation: drift 12s ease-in-out infinite reverse; transform-origin: 600px 90px; }
+    .wave-emoji { display: inline-block; animation: wave-hand 2.2s ease-in-out infinite; transform-origin: 70% 70%; }
+    @keyframes drift {
+      0%   { transform: translateY(0px); }
+      50%  { transform: translateY(6px); }
+      100% { transform: translateY(0px); }
+    }
+    @keyframes wave-hand {
+      0%, 60%, 100% { transform: rotate(0deg); }
+      10%, 30% { transform: rotate(14deg); }
+      20%, 40% { transform: rotate(-8deg); }
+    }
+  </style>
+
+  <rect width="1200" height="180" fill="url(#bg)"/>
+
+  <path class="wave1" d="M0,140 C 200,110 400,170 600,140 C 800,110 1000,170 1200,140 L1200,180 L0,180 Z" fill="url(#wave)"/>
+  <path class="wave2" d="M0,155 C 220,175 380,125 600,155 C 820,185 980,125 1200,155 L1200,180 L0,180 Z" fill="url(#wave)"/>
+
+  <text x="600" y="76" text-anchor="middle" class="title">
+    Hi, I'm Chris <tspan class="wave-emoji">👋</tspan>
+  </text>
+  <text x="600" y="106" text-anchor="middle" class="subtitle">
+    Technical Account Manager for Platform and Ansible · Red Hat
+  </text>
+</svg>
