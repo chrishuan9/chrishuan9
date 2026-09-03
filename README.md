@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0000,100:1a1a1a&height=200&section=header&text=Hi%2C%20I%20am%20Chris%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20%26%20Infrastructure%20Engineer%20%C2%B7%20Red%20Hat&descAlignY=58&descSize=18" alt="header banner" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=EE0000&center=true&vCenter=true&width=560&lines=Linux+%2B+Automation+%2B+Infrastructure;RHEL+%7C+Fedora+%7C+Debian+%7C+Ubuntu;Ansible+%7C+Python+%7C+CI%2FCD+Pipelines;Package+Maintainer+%40+OS+Tooling" alt="Typing SVG" />
-  </a>
-</p>
+<h2 align="center">Hi, I'm Chris 👋 &nbsp;·&nbsp; Automation &amp; Infrastructure Engineer @ Red Hat</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chrishuan9&label=Profile%20Views&color=ee4c2c&style=flat" alt="chrishuan9 profile views" />
@@ -23,13 +15,6 @@
 - 🏢 Technical Account Manager & Automation/Infrastructure Engineer at **Red Hat**
 - 🛠️ Designing automated Linux server services and helping shape Container-as-a-Service platforms
 - 📦 Package maintainer at heart — I like keeping systems reproducible and boring (in a good way)
-
-### 🪄 What I'm Building
-
-- 🔁 **CI/CD pipelines** for OS lifecycle management — mass patching, compliance, and image builds for RHEL-family systems
-- 📦 **Package maintenance & tooling** for enterprise Linux environments (RHEL, Fedora, Debian/Ubuntu)
-- 🤖 **Ansible content & roles** for provisioning, patching, and configuration management at scale
-- 🧰 Internal OS tools to make infrastructure automation practical, reliable, and boring (again — in a good way)
 
 ### 🛠️ Tech Stack
 
@@ -52,7 +37,3 @@
 </p>
 
 <p align="center"><em>Thanks for stopping by — feel free to explore my pinned repos below ⬇️</em></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:EE0000&height=100&section=footer" alt="footer banner" width="100%" />
-</p>
