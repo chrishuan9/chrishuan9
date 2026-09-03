@@ -31,12 +31,18 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="48" alt="RHEL" />
+  <img src="./redhat-tile.svg" height="48" width="48" alt="RHEL" />
   <img src="./fedora-tile.png" height="48" width="48" alt="Fedora" />
-  <img src="https://skillicons.dev/icons?i=linux,apple,ansible,py&theme=dark" height="48" alt="tech stack icons" />
+  <img src="./linux-tile.svg" height="48" width="48" alt="Linux" />
+  <img src="./apple-tile.svg" height="48" width="48" alt="macOS" />
+  <img src="./ansible-tile.svg" height="48" width="48" alt="Ansible" />
+  <img src="./py-tile.svg" height="48" width="48" alt="Python" />
   <img src="./opentofu-tile.png" height="48" width="48" alt="OpenTofu" />
   <img src="./openbao-tile.png" height="48" width="48" alt="OpenBao" />
-  <img src="https://skillicons.dev/icons?i=git,vscode,neovim,bash&theme=dark" height="48" alt="tech stack icons" />
+  <img src="./git-tile.svg" height="48" width="48" alt="Git" />
+  <img src="./vscode-tile.svg" height="48" width="48" alt="VS Code" />
+  <img src="./neovim-tile.svg" height="48" width="48" alt="NeoVim" />
+  <img src="./bash-tile.svg" height="48" width="48" alt="Bash" />
   <img src="./hetzner-tile.png" height="48" width="48" alt="Hetzner" />
 </p>
 
