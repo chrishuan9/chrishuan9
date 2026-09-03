@@ -15,16 +15,15 @@
     .subtitle { font: 400 17px "Segoe UI", "Helvetica Neue", Arial, sans-serif; fill: #f5d7d7; }
     .wave1 { animation: drift 9s ease-in-out infinite; transform-origin: 600px 90px; }
     .wave2 { animation: drift 12s ease-in-out infinite reverse; transform-origin: 600px 90px; }
-    .wave-emoji { display: inline-block; animation: wave-hand 2.2s ease-in-out infinite; transform-origin: 70% 70%; }
+    .wave-emoji { display: inline-block; animation: flag-bounce 2.4s ease-in-out infinite; }
     @keyframes drift {
       0%   { transform: translateY(0px); }
       50%  { transform: translateY(6px); }
       100% { transform: translateY(0px); }
     }
-    @keyframes wave-hand {
-      0%, 60%, 100% { transform: rotate(0deg); }
-      10%, 30% { transform: rotate(14deg); }
-      20%, 40% { transform: rotate(-8deg); }
+    @keyframes flag-bounce {
+      0%, 100% { transform: translateY(0px); }
+      50%      { transform: translateY(-4px); }
     }
   </style>
 
@@ -34,7 +33,7 @@
   <path class="wave2" d="M0,155 C 220,175 380,125 600,155 C 820,185 980,125 1200,155 L1200,180 L0,180 Z" fill="url(#wave)"/>
 
   <text x="600" y="76" text-anchor="middle" class="title">
-    Hi, I'm Chris <tspan class="wave-emoji">👋</tspan>
+    Hi, I'm Chris <tspan class="wave-emoji">🇨🇭🇨🇳🇦🇺</tspan>
   </text>
   <text x="600" y="106" text-anchor="middle" class="subtitle">
     Technical Account Manager for Platform and Ansible · Red Hat
