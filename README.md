@@ -11,7 +11,7 @@
 
 ---
 
-### 🌱 About Me
+### 🇦🇺 About Me
 
 - ⚙️ Platform engineer focused on **Linux automation, infrastructure lifecycle, and cloud-native platforms**
 - 🏢 Technical Account Manager for Platform and Ansible at **Red Hat** by day, Automation/Infrastructure Engineer by night 🌙
@@ -33,7 +33,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=redhat&theme=dark" height="48" alt="RHEL" />
   <img src="./fedora-tile.png" height="48" width="48" alt="Fedora" />
-  <img src="https://skillicons.dev/icons?i=linux,apple,ansible,py,git,vscode,neovim,bash&theme=dark" height="48" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=linux,apple,ansible,py&theme=dark" height="48" alt="tech stack icons" />
+  <img src="./opentofu-tile.png" height="48" width="48" alt="OpenTofu" />
+  <img src="./openbao-tile.png" height="48" width="48" alt="OpenBao" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,neovim,bash&theme=dark" height="48" alt="tech stack icons" />
+  <img src="./hetzner-tile.png" height="48" width="48" alt="Hetzner" />
 </p>
 
 <p align="center">
