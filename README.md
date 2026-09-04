@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chrishuan9&label=Profile%20Views&color=ee4c2c&style=flat" alt="chrishuan9 profile views" />
-  <a href="https://www.linkedin.com/in/chrhuang/"><img src="https://img.shields.io/badge/LinkedIn-Chris%20Huang-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">⭐ From <a href="https://github.com/chrishuan9?tab=repositories">@chrishuan9</a> — thanks for stopping by!</p>
@@ -57,7 +56,8 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chrhuang/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/chrishuang11"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://matrix.to/#/@chris985:matrix.org"><img src="https://img.shields.io/badge/-Matrix-000000?style=flat&logo=matrix&logoColor=white" alt="Matrix" /></a>
 </p>
 
 <p align="center"><em>Thanks for stopping by — feel free to explore my pinned repos below ⬇️</em></p>
