@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://t.me/chrishuang11"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://matrix.to/#/@chris985:matrix.org"><img src="https://img.shields.io/badge/-Matrix-000000?style=flat&logo=matrix&logoColor=white" alt="Matrix" /></a>
+  <a href="https://app.element.io/#/user/@chris985:matrix.org"><img src="https://img.shields.io/badge/-Chat%20on%20Element-0DBD8B?style=flat&logo=element&logoColor=white" alt="Chat on Element" /></a>
 </p>
 
 <p align="center"><em>Thanks for stopping by — feel free to explore my pinned repos below ⬇️</em></p>
