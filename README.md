@@ -2,10 +2,6 @@
   <img src="./banner.svg" alt="Hi, I'm Chris — Technical Account Manager for Platform and Ansible at Red Hat" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chrishuan9&label=Profile%20Views&color=ee4c2c&style=flat" alt="chrishuan9 profile views" />
-</p>
-
 <p align="center">⭐ From <a href="https://github.com/chrishuan9?tab=repositories">@chrishuan9</a> — thanks for stopping by!</p>
 
 ---
